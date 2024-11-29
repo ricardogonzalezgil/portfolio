@@ -9,9 +9,9 @@
 - **Office Productivity** | Inkscape, GIMP, PhotoshopMicrosoft Office Suite (Word, Excel, PowerPoint)
 
 ### Education
-- **PhD, Marine Ecology** | University of Oviedo (_February 2016_)								       		
-- **MSc, Marine Biodiversity and Conservation** | IMBRSea; previously EMBC (_June 2010_)	 			        		
-- **BSc, Biology** | University of Oviedo (_June 2008_)
+- **PhD, Marine Ecology**: University of Oviedo (_February 2016_)								       		
+- **MSc, Marine Biodiversity and Conservation**: IMBRSea; previously EMBC (_June 2010_)	 			        		
+- **BSc, Biology**: University of Oviedo (_June 2008_)
 
 
 ### Work Experience
