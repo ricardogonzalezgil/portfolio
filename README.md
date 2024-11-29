@@ -1,6 +1,6 @@
 # Data Analyst and Ecologist
 
-### IT Skills
+## IT Skills
 
 - **Statistical and Data Analysis** | **R programming** (primary tool for most data analysis). Also: Matlab, SPSS, PRIMER, SURFER
 - **Geographic Information Systems (GIS) and Oceanography** | QGIS, Ocean Data View
@@ -8,13 +8,13 @@
 - **Design and Visualization** | Inkscape, GIMP, Photoshop
 - **Office Productivity** | Inkscape, GIMP, PhotoshopMicrosoft Office Suite (Word, Excel, PowerPoint)
 
-### Education
+## Education
 - **PhD, Marine Ecology**: University of Oviedo (_February 2016_)								       		
 - **MSc, Marine Biodiversity and Conservation**: IMBRSea; previously EMBC (_June 2010_)	 			        		
 - **BSc, Biology**: University of Oviedo (_June 2008_)
 
 
-### Work Experience
+## Work Experience
 
 - **Blue Economy Coordinator for Latin America and the Caribbean (LAC)** | GOAL (_July 2023-September 2024_)
 - **Consultant in marine ecology and data analysis** | Roatan Marine Park, RMP (_July 2023_)
