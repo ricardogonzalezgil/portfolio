@@ -29,7 +29,7 @@
 
 ### Peer-Reviewed Articles
 
-- Simmonds, E. G., et al. (2023). Recommendations for quantitative uncertainty consideration in ecology and evolution. Trends in Ecology & Evolution, 39(4), 328-337. DOI: doi.org/10.1016/j.tree.2023.10.012 
+- Simmonds, E. G., et al. (2023). Recommendations for quantitative uncertainty consideration in ecology and evolution. Trends in Ecology & Evolution, 39(4), 328-337. DOI: [doi.org/10.1016/j.tree.2023.10.012](doi.org/10.1016/j.tree.2023.10.012) 
 
 - Simmonds, E. G., et al. (2022). Insights into the quantification and reporting of model-related uncertainty across different disciplines. iScience, 25(12), 105512. DOI: doi.org/10.1016/j.isci.2022.105512
 
