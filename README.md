@@ -6,7 +6,7 @@
 - **Geographic Information Systems (GIS) and Oceanography**: QGIS, Ocean Data View
 - **Version Control and Collaboration**: Git related (Git, GitLab, GitHub), Google Docs and Sheets, Trello, Notion, Microsoft Teams, Slack
 - **Design and Visualization**: Inkscape, GIMP, Photoshop
-- **Office Productivity**: Inkscape, GIMP, PhotoshopMicrosoft Office Suite (Word, Excel, PowerPoint)
+- **Office Productivity**: Microsoft Office Suite (Word, Excel, PowerPoint)
 
 ## Education
 - **PhD, Marine Ecology**: University of Oviedo (_February 2016_)								       		
