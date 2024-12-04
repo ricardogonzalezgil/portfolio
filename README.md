@@ -1,5 +1,7 @@
 # Data Analyst and Ecologist
 
+My complete CV (last updated November 2024) can be [downloaded here](https://github.com/ricardogonzalezgil/portfolio/blob/main/202411_CV_RGG_Data_Analyst_Ecologist.pdf)
+
 ## IT Skills
 
 - **Statistical and Data Analysis**: **R programming** (primary tool for most data analysis). Also: Matlab, SPSS, PRIMER, SURFER
