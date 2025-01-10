@@ -6,8 +6,3 @@ remote_theme: pages-themes/minimal@v0.2.0  #https://pages.github.com/themes/
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-# Use Kramdown Markdown processor (GitHub Pages default)
-markdown: kramdown
-kramdown:
-  input: GFM  # Use GitHub-Flavored Markdown
-  toc_levels: 1..6  # Include headings from H1 to H6 in the TOC

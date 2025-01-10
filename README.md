@@ -3,7 +3,11 @@
 My complete CV (last updated November 2024) can be [downloaded here](https://github.com/ricardogonzalezgil/portfolio/blob/main/202411_CV_RGG_Data_Analyst_Ecologist.pdf)
 
 ## Table of Contents
-{:toc}
+- [IT Skills](#it-skills)
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Projects](#projects)
+- [Publications](#publications)
 
 ## IT Skills
 
@@ -14,10 +18,10 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - **Office Productivity**: Microsoft Office Suite (Word, Excel, PowerPoint)
 
 ## Education
+
 - **PhD, Marine Ecology**: University of Oviedo (_February 2016_)								       		
 - **MSc, Marine Biodiversity and Conservation**: IMBRSea; previously EMBC (_June 2010_)	 			        		
 - **BSc, Biology**: University of Oviedo (_June 2008_)
-
 
 ## Work Experience
 
@@ -29,6 +33,44 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - **Consultant in marine ecology and data analysis for aquaculture sustainability**: Blue Remediation Ltd. (_September 2021-March 2023_)
 - **Postdoctoral researcher**: University of Strathclyde, Dept. of Mathematics and Statistics (_February 2018-January 2020_)  
 - **Fisheries researcher**: University of Oviedo (_June-December 2017_) 
+
+## Projects
+
+### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R
+
+For the full exercise with code, visit this [🔗 link](https://ricardogonzalezgil.github.io/analysis-assign-positions-rep-elements-rgg/)  
+
+This exercise explores **four different methods** for assigning positions within consecutive, repeated elements in a vector. The goal is to efficiently label sequences of a target value while keeping other values unchanged.
+
+For example, having a vector like:
+
+**0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0**
+
+The desired output is:
+
+**0 0 0 1 2 3 4 0 0 1 2 0 0 0 1 2 3 4 0 0 0 0 0**
+
+This need arises in a variety of applications, such as:
+
+- ⏳ **Time Series Analysis** – Identifying trends and patterns in sequential data.
+- 🧬 **Genomic Sequence Processing** – Assigning positions in repeated nucleotides or amino acid sequences.
+- 📖 **Text Data Manipulation** – Detecting and processing repeated words, phrases, or characters.
+
+For a diverse range of cases and applications, I developed **generalized function versions** for four different methods and tested their efficiency across vectors of varying lengths, scaling up to **1 × 10⁶** elements.
+
+**Performance comparison of methods**  
+
+<img src="https://github.com/ricardogonzalezgil/analysis-assign-positions-rep-elements-rgg/blob/main/docs/index_files/figure-html/methods_comparison_fig1-1.png" style="width: 600px; height: auto;">
+
+![Fig. 2: Performance comparison for each vector length](https://github.com/ricardogonzalezgil/analysis-assign-positions-rep-elements-rgg/blob/main/docs/index_files/figure-html/methods_comparison_fig2-1.png)  
+
+**Key takeaways**
+
+- This study demonstrates how different approaches can yield the same result with varying trade-offs in efficiency, readability, and flexibility.
+- **rle** is the best choice when speed is critical.
+- **Benchmarking is essential** when selecting methods for large-scale data processing.
+- There may be other variations or entirely different implementations not covered in this analysis that could further optimize performance.
+
 
 ## Publications
 
