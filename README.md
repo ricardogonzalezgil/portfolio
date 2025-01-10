@@ -10,6 +10,7 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - [Scientific Visuals Gallery](#scientific-visuals-gallery)
 - [Publications](#publications)
 
+<a id="it-skills"></a>
 ## IT Skills 🖥️
 
 - **Statistical and Data Analysis**: **R programming** (primary tool for most data analysis). Also: Matlab, SPSS, PRIMER, SURFER
@@ -18,12 +19,14 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - **Design and Visualization**: Inkscape, GIMP, Photoshop
 - **Office Productivity**: Microsoft Office Suite (Word, Excel, PowerPoint)
 
+<a id="education"></a>
 ## Education 🎓
 
 - **PhD, Marine Ecology**: University of Oviedo (_February 2016_)								       		
 - **MSc, Marine Biodiversity and Conservation**: IMBRSea; previously EMBC (_June 2010_)	 			        		
 - **BSc, Biology**: University of Oviedo (_June 2008_)
 
+<a id="work-experience"></a>
 ## Work Experience 💼
 
 - **Blue Economy Coordinator for Latin America and the Caribbean (LAC)**: GOAL (_July 2023-September 2024_)
@@ -35,6 +38,7 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - **Postdoctoral researcher**: University of Strathclyde, Dept. of Mathematics and Statistics (_February 2018-January 2020_)  
 - **Fisheries researcher**: University of Oviedo (_June-December 2017_) 
 
+<a id="projects"></a>
 ## Projects 🚀
 
 ### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R. 
@@ -53,6 +57,7 @@ This exercise explores four methods for assigning positions within consecutive, 
 
 ![Fig. 2: Performance comparison for each vector length](/images/methods_comparison_fig2-1.png)  
 
+<a id="scientific-visuals-gallery"></a>
 ## Scientific Visuals Gallery 📈
 
 ### Research Figures 
@@ -65,14 +70,23 @@ González-Gil, R., Banas, N. S., Bresnan, E., & Heath, M., R. (2022). The onset 
 
 ![DRH paper gallery](/images/Bloom_DRH_N_Sea.png)  
 
+González-Gil, R., Taboada, F. G., Cáceres, C., Largier, J. L. & Anadón, R. (2018). Winter mixing preconditioning of the spring phytoplankton bloom in the Bay of Biscay. Limnology and Oceanography, 63(3), 1039-1447. DOI: [10.1002/lno.10769](https://doi.org/10.1002/lno.10769)
 
+![Spring bloom onset C Sea paper gallery](/images/Spring_bloom_onset_C_Sea.png) 
 
 ### Graphical Abstracts
 
-Visual summaries of my research papers, designed to communicate complex findings in a concise and engaging format.
+Visual summaries of some of my research papers, designed to communicate complex findings in a concise and engaging format.
 
+---
 
+González-Gil, R., Taboada, F. G., Cáceres, C., Largier, J. L. & Anadón, R. (2018). Winter mixing preconditioning of the spring phytoplankton bloom in the Bay of Biscay. Limnology and Oceanography, 63(3), 1039-1447. DOI: [10.1002/lno.10769](https://doi.org/10.1002/lno.10769)
 
+[link for the grahical abstract](https://github.com/ricardogonzalezgil/portfolio/blob/main/images/Gr_abstr_winter_mixing_spring_bloom_RGG_et_al_2017_L%26O_v3.0_350dpi.png)
+
+![Grph. abstract Spring bloom onset C Sea paper gallery](/images/Gr_abstr_winter_mixing_spring_bloom_RGG_et_al_2017_L%26O_v3.0_350dpi.png)
+
+<a id="publications"></a>
 ## Publications 📝
 
 ### Peer-Reviewed Articles
