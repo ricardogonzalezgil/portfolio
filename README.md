@@ -42,13 +42,13 @@ For the full exercise with code, visit this [🔗 link](https://ricardogonzalezg
 
 This exercise explores four methods for assigning positions within consecutive, repeated elements in a vector, aiming to efficiently label sequences of a target value while keeping other values unchanged. For example, given a vector like 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0, the desired output is 0 0 0 1 2 3 4 0 0 1 2 0 0 0 1 2 3 4 0 0 0 0 0, a need that arises in various applications such as time series analysis (identifying trends and patterns in sequential data), genomic sequence processing (assigning positions in repeated nucleotides or amino acid sequences), and text data manipulation (detecting and processing repeated words, phrases, or characters). To address these diverse use cases, I developed generalized function versions for four different methods and tested their efficiency across vectors of varying lengths, scaling up to 1 × 10⁶ elements (Figs. 1 and 2). The key takeaways are:
 
-1) different approaches yield the same result with varying trade-offs in efficiency, readability, and flexibility.
-2) **rle** is the best choice when speed is critical. 
-3) benchmarking is essential for selecting methods in large-scale data processing.
-4) alternative implementations not covered here may further optimize performance.
+- 1) different approaches yield the same result with varying trade-offs in efficiency, readability, and flexibility.
+- 2) **rle** is the best choice when speed is critical. 
+- 3) benchmarking is essential for selecting methods in large-scale data processing.
+- 4) alternative implementations not covered here may further optimize performance.
 
  
-<img src="https://github.com/ricardogonzalezgil/portfolio/blob/main/images/methods_comparison_fig2-1.png" style="width: 600px; height: auto;">
+![Fig. 1: Performance comparison](/images/methods_comparison_fig1-1.png) 
 
 ![Fig. 2: Performance comparison for each vector length](/images/methods_comparison_fig2-1.png)  
 
