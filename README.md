@@ -7,9 +7,10 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Projects](#projects)
+- [Scientific Visuals Gallery](#scientific-visuals-gallery)
 - [Publications](#publications)
 
-## IT Skills
+## IT Skills 🖥️
 
 - **Statistical and Data Analysis**: **R programming** (primary tool for most data analysis). Also: Matlab, SPSS, PRIMER, SURFER
 - **Geographic Information Systems (GIS) and Oceanography**: QGIS, Ocean Data View
@@ -17,13 +18,13 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - **Design and Visualization**: Inkscape, GIMP, Photoshop
 - **Office Productivity**: Microsoft Office Suite (Word, Excel, PowerPoint)
 
-## Education
+## Education 🎓
 
 - **PhD, Marine Ecology**: University of Oviedo (_February 2016_)								       		
 - **MSc, Marine Biodiversity and Conservation**: IMBRSea; previously EMBC (_June 2010_)	 			        		
 - **BSc, Biology**: University of Oviedo (_June 2008_)
 
-## Work Experience
+## Work Experience 💼
 
 - **Blue Economy Coordinator for Latin America and the Caribbean (LAC)**: GOAL (_July 2023-September 2024_)
 - **Consultant in marine ecology and data analysis**: Roatan Marine Park, RMP (_July 2023_)
@@ -34,7 +35,7 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - **Postdoctoral researcher**: University of Strathclyde, Dept. of Mathematics and Statistics (_February 2018-January 2020_)  
 - **Fisheries researcher**: University of Oviedo (_June-December 2017_) 
 
-## Projects
+## Projects 🚀
 
 ### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R. 
 
@@ -52,9 +53,25 @@ This exercise explores four methods for assigning positions within consecutive, 
 
 ![Fig. 2: Performance comparison for each vector length](/images/methods_comparison_fig2-1.png)  
 
+## Scientific Visuals Gallery 📈
+
+### Research Figures 
+
+A selection of plots and figures from my research contributions, showcasing key findings and data insights. For a complete list of publications, see the [Publications](#publications) section.
+
+- González-Gil, R., Banas, N. S., Bresnan, E., & Heath, M., R. (2022). The onset of the spring phytoplankton bloom in the coastal North Sea supports the Disturbance Recovery Hypothesis. Biogeosciences (highlight paper), 19, 2417-2426. DOI: [10.5194/bg-19-2417-2022](https://doi.org/10.5194/bg-19-2417-2022)
+
+![DRH paper gallery](/images/Bloom_DRH_N_Sea.png.png)  
 
 
-## Publications
+
+### Graphical Abstracts
+
+Visual summaries of my research papers, designed to communicate complex findings in a concise and engaging format.
+
+
+
+## Publications 📝
 
 ### Peer-Reviewed Articles
 
