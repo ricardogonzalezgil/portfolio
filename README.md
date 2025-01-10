@@ -36,40 +36,22 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 
 ## Projects
 
-### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R
+### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R. 
 
-For the full exercise with code, visit this [🔗 link](https://ricardogonzalezgil.github.io/analysis-assign-positions-rep-elements-rgg/)  
+For the full exercise with code, visit this [🔗 link](https://ricardogonzalezgil.github.io/analysis-assign-positions-rep-elements-rgg/).
 
-This exercise explores **four different methods** for assigning positions within consecutive, repeated elements in a vector. The goal is to efficiently label sequences of a target value while keeping other values unchanged.
+This exercise explores four methods for assigning positions within consecutive, repeated elements in a vector, aiming to efficiently label sequences of a target value while keeping other values unchanged. For example, given a vector like 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0, the desired output is 0 0 0 1 2 3 4 0 0 1 2 0 0 0 1 2 3 4 0 0 0 0 0, a need that arises in various applications such as time series analysis (identifying trends and patterns in sequential data), genomic sequence processing (assigning positions in repeated nucleotides or amino acid sequences), and text data manipulation (detecting and processing repeated words, phrases, or characters). To address these diverse use cases, I developed generalized function versions for four different methods and tested their efficiency across vectors of varying lengths, scaling up to 1 × 10⁶ elements (Figs. 1 and 2). The key takeaways are:
 
-For example, having a vector like:
+1) different approaches yield the same result with varying trade-offs in efficiency, readability, and flexibility.
+2) **rle** is the best choice when speed is critical. 
+3) benchmarking is essential for selecting methods in large-scale data processing.
+4) alternative implementations not covered here may further optimize performance.
 
-**0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0**
+ 
+<img src="https://github.com/ricardogonzalezgil/portfolio/blob/main/images/methods_comparison_fig2-1.png" style="width: 600px; height: auto;">
 
-The desired output is:
+![Fig. 2: Performance comparison for each vector length](/images/methods_comparison_fig2-1.png)  
 
-**0 0 0 1 2 3 4 0 0 1 2 0 0 0 1 2 3 4 0 0 0 0 0**
-
-This need arises in a variety of applications, such as:
-
-- ⏳ **Time Series Analysis** – Identifying trends and patterns in sequential data.
-- 🧬 **Genomic Sequence Processing** – Assigning positions in repeated nucleotides or amino acid sequences.
-- 📖 **Text Data Manipulation** – Detecting and processing repeated words, phrases, or characters.
-
-For a diverse range of cases and applications, I developed **generalized function versions** for four different methods and tested their efficiency across vectors of varying lengths, scaling up to **1 × 10⁶** elements.
-
-**Performance comparison of methods**  
-
-<img src="https://github.com/ricardogonzalezgil/analysis-assign-positions-rep-elements-rgg/blob/main/docs/index_files/figure-html/methods_comparison_fig1-1.png" style="width: 600px; height: auto;">
-
-![Fig. 2: Performance comparison for each vector length](https://github.com/ricardogonzalezgil/analysis-assign-positions-rep-elements-rgg/blob/main/docs/index_files/figure-html/methods_comparison_fig2-1.png)  
-
-**Key takeaways**
-
-- This study demonstrates how different approaches can yield the same result with varying trade-offs in efficiency, readability, and flexibility.
-- **rle** is the best choice when speed is critical.
-- **Benchmarking is essential** when selecting methods for large-scale data processing.
-- There may be other variations or entirely different implementations not covered in this analysis that could further optimize performance.
 
 
 ## Publications
