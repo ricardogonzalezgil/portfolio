@@ -59,9 +59,11 @@ This exercise explores four methods for assigning positions within consecutive, 
 
 A selection of plots and figures from my research contributions, showcasing key findings and data insights. For a complete list of publications, see the [Publications](#publications) section.
 
-- González-Gil, R., Banas, N. S., Bresnan, E., & Heath, M., R. (2022). The onset of the spring phytoplankton bloom in the coastal North Sea supports the Disturbance Recovery Hypothesis. Biogeosciences (highlight paper), 19, 2417-2426. DOI: [10.5194/bg-19-2417-2022](https://doi.org/10.5194/bg-19-2417-2022)
+---
 
-![DRH paper gallery](/images/Bloom_DRH_N_Sea.png.png)  
+González-Gil, R., Banas, N. S., Bresnan, E., & Heath, M., R. (2022). The onset of the spring phytoplankton bloom in the coastal North Sea supports the Disturbance Recovery Hypothesis. Biogeosciences (highlight paper), 19, 2417-2426. DOI: [10.5194/bg-19-2417-2022](https://doi.org/10.5194/bg-19-2417-2022)
+
+![DRH paper gallery](/images/Bloom_DRH_N_Sea.png)  
 
 
 
