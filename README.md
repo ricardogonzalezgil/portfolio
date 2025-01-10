@@ -3,7 +3,7 @@
 My complete CV (last updated November 2024) can be [downloaded here](https://github.com/ricardogonzalezgil/portfolio/blob/main/202411_CV_RGG_Data_Analyst_Ecologist.pdf)
 
 ## Table of Contents
-{% include toc.html %}
+{:toc}
 
 ## IT Skills
 
