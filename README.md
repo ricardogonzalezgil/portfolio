@@ -6,15 +6,16 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 <!-- omit in toc -->
 ## Table of Contents
 
-- [IT Skills 🖥️](#it-skills-️)
-- [Education 🎓](#education-)
-- [Work Experience 💼](#work-experience-)
-- [Programming Projects 🔢](#programming-projects-)
-  - [Assigning positions in blocks of repeated elements in a vector: a performance comparison in R.](#assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r)
-- [Scientific Visuals Gallery 📈](#scientific-visuals-gallery-)
+<!-- no toc -->
+- [IT Skills 🖥️](#it-skills)
+- [Education 🎓](#education)
+- [Work Experience 💼](#work-experience)
+- [Programming Projects 🔢](#programming-projects)
+  - [Assigning positions in blocks of repeated elements in a vector: a performance comparison in R](#assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r)
+- [Scientific Visuals Gallery 📈](#scientific-visuals-gallery)
   - [Research Figures](#research-figures)
   - [Graphical Abstracts](#graphical-abstracts)
-- [Publications 📝](#publications-)
+- [Publications 📝](#publications)
   - [Peer-Reviewed Articles](#peer-reviewed-articles)
   - [Book Chapters](#book-chapters)
 
@@ -50,7 +51,7 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 ## Programming Projects 🔢
 
 <a id="assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r"></a>
-### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R. 
+### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R
 
 For the full exercise with code, visit this [link](https://ricardogonzalezgil.github.io/analysis-assign-positions-rep-elements-rgg/).
 
