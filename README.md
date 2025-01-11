@@ -62,7 +62,7 @@ This exercise explores four methods for assigning positions within consecutive, 
 
 ### Research Figures 
 
-A selection of plots and figures from my research contributions, showcasing key findings and data insights. For a complete list of publications, see the [Publications](#publications) section.
+A collection of collages featuring selected plots and plot fragments from my research contributions, showcasing different ways I visualize data. These highlight the final visualization results rather than full analytical workflows. To explore the complete set of plots, click on the corresponding paper links. For a full list of publications, see the [Publications](#publications) section.
 
 ---
 
@@ -72,7 +72,11 @@ González-Gil, R., Banas, N. S., Bresnan, E., & Heath, M., R. (2022). The onset 
 
 González-Gil, R., Taboada, F. G., Cáceres, C., Largier, J. L. & Anadón, R. (2018). Winter mixing preconditioning of the spring phytoplankton bloom in the Bay of Biscay. Limnology and Oceanography, 63(3), 1039-1447. DOI: [10.1002/lno.10769](https://doi.org/10.1002/lno.10769)
 
-![Spring bloom onset C Sea paper gallery](/images/Spring_bloom_onset_C_Sea.png) 
+![Spring bloom onset C Sea paper gallery](/images/Spring_bloom_onset_C_Sea.png)
+
+González-Gil, R., Taboada, F. G., Höfer, J., & Anadón, R. (2015). Winter mixing and coastal upwelling drive long-term changes in zooplankton in the Bay of Biscay (1993–2010). Journal of Plankton Research, 37(2), 337–351. DOI: [10.1093/plankt/fbv001](https://doi.org/10.1093/plankt/fbv001)
+
+![Zooplankton C Sea paper gallery](/images/Zooplankton_C_Sea.png)
 
 ### Graphical Abstracts
 
@@ -82,9 +86,15 @@ Visual summaries of some of my research papers, designed to communicate complex 
 
 González-Gil, R., Taboada, F. G., Cáceres, C., Largier, J. L. & Anadón, R. (2018). Winter mixing preconditioning of the spring phytoplankton bloom in the Bay of Biscay. Limnology and Oceanography, 63(3), 1039-1447. DOI: [10.1002/lno.10769](https://doi.org/10.1002/lno.10769)
 
-[link for the grahical abstract](https://github.com/ricardogonzalezgil/portfolio/blob/main/images/Gr_abstr_winter_mixing_spring_bloom_RGG_et_al_2017_L%26O_v3.0_350dpi.png)
+Download the graphical abstract [here](https://github.com/ricardogonzalezgil/portfolio/blob/main/images/Gr_abstr_winter_mixing_spring_bloom_RGG_et_al_2017_L%26O_v3.0_350dpi.png)
 
-![Grph. abstract Spring bloom onset C Sea paper gallery](/images/Gr_abstr_winter_mixing_spring_bloom_RGG_et_al_2017_L%26O_v3.0_350dpi.png)
+![Grph. abstract Spring bloom onset C Sea paper](/images/Gr_abstr_winter_mixing_spring_bloom_RGG_et_al_2017_L%26O_v3.0_350dpi.png)
+
+González-Gil, R., Taboada, F. G., Höfer, J., & Anadón, R. (2015). Winter mixing and coastal upwelling drive long-term changes in zooplankton in the Bay of Biscay (1993–2010). Journal of Plankton Research, 37(2), 337–351. DOI: [10.1093/plankt/fbv001](https://doi.org/10.1093/plankt/fbv001)
+
+Download the graphical abstract [here](https://github.com/ricardogonzalezgil/portfolio/blob/main/images/Zooplankton_graphical_abstract_3_copyright_Graphical_abstract_350ppp.png)
+
+![Grph. abstract Zooplankton C Sea paper](/images/Zooplankton_graphical_abstract_3_copyright_Graphical_abstract_350ppp.png)
 
 <a id="publications"></a>
 ## Publications 📝
