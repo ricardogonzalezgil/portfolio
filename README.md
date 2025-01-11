@@ -1,6 +1,6 @@
 # Data Analyst and Ecologist
 
-My complete CV (last updated November 2024) can be [downloaded here](https://github.com/ricardogonzalezgil/portfolio/blob/main/202411_CV_RGG_Data_Analyst_Ecologist.pdf)
+My complete CV (last updated November 2024) can be [downloaded here](https://github.com/ricardogonzalezgil/portfolio/blob/main/202411_CV_RGG_Data_Analyst_Ecologist.pdf).
 
 ## Table of Contents
 - [IT Skills](#it-skills)
@@ -13,11 +13,11 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 <a id="it-skills"></a>
 ## IT Skills 🖥️
 
-- **Statistical and Data Analysis**: **R programming** (primary tool for most data analysis). Also: Matlab, SPSS, PRIMER, SURFER
-- **Geographic Information Systems (GIS) and Oceanography**: QGIS, Ocean Data View
-- **Version Control and Collaboration**: Git related (Git, GitLab, GitHub), Google Docs and Sheets, Trello, Notion, Microsoft Teams, Slack
-- **Design and Visualization**: Inkscape, GIMP, Photoshop
-- **Office Productivity**: Microsoft Office Suite (Word, Excel, PowerPoint)
+- **Statistical and Data Analysis**: **R programming** (primary tool for most data analysis). Also: Matlab, SPSS, PRIMER, SURFER.
+- **Geographic Information Systems (GIS) and Oceanography**: QGIS, Ocean Data View.
+- **Version Control and Collaboration**:  Git-related tools (Git, GitLab, GitHub), collaborative platforms (Google Docs, Google Sheets, Trello, Notion, Microsoft Teams, Slack).
+- **Design and Visualization**: Inkscape, GIMP, Photoshop.
+- **Office Productivity**: Microsoft Office Suite (Word, Excel, PowerPoint).
 
 <a id="education"></a>
 ## Education 🎓
@@ -45,12 +45,12 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 
 For the full exercise with code, visit this [🔗 link](https://ricardogonzalezgil.github.io/analysis-assign-positions-rep-elements-rgg/).
 
-This exercise explores four methods for assigning positions within consecutive, repeated elements in a vector, aiming to efficiently label sequences of a target value while keeping other values unchanged. For example, given a vector like 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0, the desired output is 0 0 0 1 2 3 4 0 0 1 2 0 0 0 1 2 3 4 0 0 0 0 0, a need that arises in various applications such as time series analysis (identifying trends and patterns in sequential data), genomic sequence processing (assigning positions in repeated nucleotides or amino acid sequences), and text data manipulation (detecting and processing repeated words, phrases, or characters). To address these diverse use cases, I developed generalized function versions for four different methods and tested their efficiency across vectors of varying lengths, scaling up to 1 × 10⁶ elements (Figs. 1 and 2). The key takeaways are:
+This exercise explores four methods for assigning positions within consecutive, repeated elements in a vector, efficiently labeling sequences of a target value while keeping other values unchanged. For example, given a vector like 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0, the desired output is 0 0 0 1 2 3 4 0 0 1 2 0 0 0 1 2 3 4 0 0 0 0 0, a need that arises in various applications such as time series analysis (identifying trends and patterns in sequential data), genomic sequence processing (assigning positions in repeated nucleotides or amino acid sequences), and text data manipulation (detecting and processing repeated words, phrases, or characters). To address these diverse use cases, I developed generalized function versions for four different methods and tested their efficiency across vectors of varying lengths, scaling up to 1 × 10⁶ elements (Figs. 1 and 2). The key takeaways are:
 
-- 1) different approaches yield the same result with varying trade-offs in efficiency, readability, and flexibility.
-- 2) **rle** is the best choice when speed is critical. 
-- 3) benchmarking is essential for selecting methods in large-scale data processing.
-- 4) alternative implementations not covered here may further optimize performance.
+  1. Different approaches yield the same result with varying trade-offs in efficiency, readability, and flexibility.
+  2. **rle** is the best choice when speed is critical. 
+  3. Benchmarking is essential for selecting methods in large-scale data processing.
+  4. Alternative implementations not covered here may further optimize performance.
 
  
 ![Fig. 1: Performance comparison](/images/methods_comparison_fig1-1.png) 
