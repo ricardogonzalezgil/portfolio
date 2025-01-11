@@ -1,14 +1,22 @@
+<!-- omit in toc -->
 # Data Analyst and Ecologist
 
 My complete CV (last updated November 2024) can be [downloaded here](https://github.com/ricardogonzalezgil/portfolio/blob/main/202411_CV_RGG_Data_Analyst_Ecologist.pdf).
 
+<!-- omit in toc -->
 ## Table of Contents
-- [IT Skills](#it-skills)
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
-- [Scientific Visuals Gallery](#scientific-visuals-gallery)
-- [Publications](#publications)
+
+- [IT Skills 🖥️](#it-skills-️)
+- [Education 🎓](#education-)
+- [Work Experience 💼](#work-experience-)
+- [Programming Projects 🔢](#programming-projects-)
+  - [Assigning positions in blocks of repeated elements in a vector: a performance comparison in R.](#assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r)
+- [Scientific Visuals Gallery 📈](#scientific-visuals-gallery-)
+  - [Research Figures](#research-figures)
+  - [Graphical Abstracts](#graphical-abstracts)
+- [Publications 📝](#publications-)
+  - [Peer-Reviewed Articles](#peer-reviewed-articles)
+  - [Book Chapters](#book-chapters)
 
 <a id="it-skills"></a>
 ## IT Skills 🖥️
@@ -38,12 +46,13 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - **Postdoctoral researcher**: University of Strathclyde, Dept. of Mathematics and Statistics (_February 2018-January 2020_)  
 - **Fisheries researcher**: University of Oviedo (_June-December 2017_) 
 
-<a id="projects"></a>
-## Projects 🚀
+<a id="personal-programming-projects"></a>
+## Programming Projects 🔢
 
+<a id="assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r"></a>
 ### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R. 
 
-For the full exercise with code, visit this [🔗 link](https://ricardogonzalezgil.github.io/analysis-assign-positions-rep-elements-rgg/).
+For the full exercise with code, visit this [link](https://ricardogonzalezgil.github.io/analysis-assign-positions-rep-elements-rgg/).
 
 This exercise explores four methods for assigning positions within consecutive, repeated elements in a vector, efficiently labeling sequences of a target value while keeping other values unchanged. For example, given a vector like 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0, the desired output is 0 0 0 1 2 3 4 0 0 1 2 0 0 0 1 2 3 4 0 0 0 0 0, a need that arises in various applications such as time series analysis (identifying trends and patterns in sequential data), genomic sequence processing (assigning positions in repeated nucleotides or amino acid sequences), and text data manipulation (detecting and processing repeated words, phrases, or characters). To address these diverse use cases, I developed generalized function versions for four different methods and tested their efficiency across vectors of varying lengths, scaling up to 1 × 10⁶ elements (Figs. 1 and 2). The key takeaways are:
 
@@ -60,6 +69,7 @@ This exercise explores four methods for assigning positions within consecutive, 
 <a id="scientific-visuals-gallery"></a>
 ## Scientific Visuals Gallery 📈
 
+<a id="research-figures"></a>
 ### Research Figures 
 
 A collection of collages featuring selected plots and plot fragments from my research contributions, showcasing different ways I visualize data. These highlight the final visualization results rather than full analytical workflows. To explore the complete set of plots, click on the corresponding paper links. For a full list of publications, see the [Publications](#publications) section.
@@ -78,6 +88,7 @@ González-Gil, R., Taboada, F. G., Höfer, J., & Anadón, R. (2015). Winter mixi
 
 ![Zooplankton C Sea paper gallery](/images/Zooplankton_C_Sea.png)
 
+<a id="graphical-abstracts"></a>
 ### Graphical Abstracts
 
 Visual summaries of some of my research papers, designed to communicate complex findings in a concise and engaging format.
@@ -99,6 +110,7 @@ Download the graphical abstract [here](https://github.com/ricardogonzalezgil/por
 <a id="publications"></a>
 ## Publications 📝
 
+<a id="peer-reviewed-articles"></a>
 ### Peer-Reviewed Articles
 
 - Simmonds, E. G., et al. (2023). Recommendations for quantitative uncertainty consideration in ecology and evolution. Trends in Ecology & Evolution, 39(4), 328-337. DOI: [10.1016/j.tree.2023.10.012](https://doi.org/10.1016/j.tree.2023.10.012) 
@@ -127,6 +139,7 @@ Download the graphical abstract [here](https://github.com/ricardogonzalezgil/por
 
 - Taboada, F. G., Gil, R. G., Hofer, J., González, S. & Anadón, R. (2010). Trichodesmium spp. population structure in the eastern North Atlantic subtropical gyre. Deep Sea Research Part I: Oceanographic Research Papers, 57(1), 65-77. DOI: [10.1016/j.dsr.2009.09.005](https://doi.org/10.1016/j.dsr.2009.09.005)
 
+<a id="book-chapters"></a>
 ### Book Chapters
 
 - Fernández Rueda, M. del P., González Gil, R., & Acuña Fernández, J. L. (2023) The octopus trap fishery in western Asturias: an example of science-based sustainable management. In Díaz González, T.E., & Borrell Pichs, Y.J. (Coords.), La sostenibilidad de las pesquerías en el Principado de Asturias: ciencia, gestión y participación en una agenda regional hacia el 2030 (pp. 11-26). Oviedo: RIDEA. URI: [https://hdl.handle.net/10651/71357](https://hdl.handle.net/10651/71357)
