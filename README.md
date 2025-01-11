@@ -48,7 +48,7 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - **Fisheries researcher**: University of Oviedo (_June-December 2017_) 
 
 <a id="personal-programming-projects"></a>
-## Programming Projects 🔢
+## Personal Programming Projects 🔢
 
 <a id="assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r"></a>
 ### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R
