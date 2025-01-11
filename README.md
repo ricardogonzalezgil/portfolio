@@ -10,7 +10,7 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 - [IT Skills 🖥️](#it-skills)
 - [Education 🎓](#education)
 - [Work Experience 💼](#work-experience)
-- [Programming Projects 🔢](#programming-projects)
+- [Personal Programming Projects 🔢](#personal-programming-projects)
   - [Assigning positions in blocks of repeated elements in a vector: a performance comparison in R](#assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r)
 - [Scientific Visuals Gallery 📈](#scientific-visuals-gallery)
   - [Research Figures](#research-figures)
