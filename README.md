@@ -38,6 +38,7 @@ My complete CV (last updated November 2024) can be [downloaded here](https://git
 <a id="work-experience"></a>
 ## Work Experience 💼
 
+- **Consultant in environmental and social risk management**: AMATELA (_January 2025-April 2025_)
 - **Blue Economy Coordinator for Latin America and the Caribbean (LAC)**: GOAL (_July 2023-September 2024_)
 - **Consultant in marine ecology and data analysis**: Roatan Marine Park, RMP (_July 2023_)
 - **Consultant in data analysis**: Coral Reef Alliance, CORAL (_April-June 2023_)
@@ -113,6 +114,8 @@ Download the graphical abstract [here](https://github.com/ricardogonzalezgil/por
 
 <a id="peer-reviewed-articles"></a>
 ### Peer-Reviewed Articles
+
+- Rivera, A., Núñez-Vallecillo, M., San Martín-Chicas, J., Guardiola, P., Fulton, S., & González-Gil, R. (2025). Drivers and potential solutions for transnational Illegal, Unreported and Unregulated fishing (IUU) in the Gulf of Honduras. People and Nature, 00, 1–13. DOI: [10.1002/pan3.70030](https://doi.org/10.1002/pan3.70030) 
 
 - Simmonds, E. G., et al. (2023). Recommendations for quantitative uncertainty consideration in ecology and evolution. Trends in Ecology & Evolution, 39(4), 328-337. DOI: [10.1016/j.tree.2023.10.012](https://doi.org/10.1016/j.tree.2023.10.012) 
 
