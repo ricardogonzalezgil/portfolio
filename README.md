@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Data Analyst and Ecologist
 
-My complete CV (last updated November 2024) can be [downloaded here](https://github.com/ricardogonzalezgil/portfolio/blob/main/202411_CV_RGG_Data_Analyst_Ecologist.pdf).
+My complete CV (last updated November 2024) can be [downloaded here](https://github.com/ricardogonzalezgil/portfolio/blob/main/202505_CV_RGG.pdf).
 
 <!-- omit in toc -->
 ## Table of Contents
