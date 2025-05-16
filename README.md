@@ -11,6 +11,7 @@ My complete CV (last updated May 2025) can be [downloaded here](https://github.c
 - [Education 🎓](#education)
 - [Work Experience 💼](#work-experience)
 - [Personal Programming Projects 🔢](#personal-programming-projects)
+  - [Make your plots more intuitive: label by Month, not Day of year](#label-by-month-not-day-of-year)
   - [Assigning positions in blocks of repeated elements in a vector: a performance comparison in R](#assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r)
 - [Scientific Visuals Gallery 📈](#scientific-visuals-gallery)
   - [Research Figures](#research-figures)
@@ -50,6 +51,20 @@ My complete CV (last updated May 2025) can be [downloaded here](https://github.c
 
 <a id="personal-programming-projects"></a>
 ## Personal Programming Projects 🔢
+
+<a id="label-by-month-not-day-of-year"></a>
+### Make your plots more intuitive: label by Month, not Day of year
+
+For the full exercise with code, visit this [link](https://ricardogonzalezgil.github.io/seasonal-plots-month-vs-doy-rgg/).
+
+This short exercise demonstrates how to improve the readability of seasonal plots
+by replacing numeric day-of-year (DOY) values with month-based labels on the x-axis. 
+Using surface temperature data from the [Scottish Coastal Observatory at Stonehaven](https://data.marine.gov.scot/dataset/scottish-coastal-observatory-stonehaven-site), 
+I show how even a small change in labeling can make time-series patterns easier 
+to interpret — especially for broader audiences. The approach compares the default DOY labeling 
+and an enhanced version with month separators and initials.
+
+![Fig. Comparison](/images/Seasonality_x_labels_comparison.png)
 
 <a id="assigning-positions-in-blocks-of-repeated-elements-in-a-vector-a-performance-comparison-in-r"></a>
 ### Assigning positions in blocks of repeated elements in a vector: a performance comparison in R
